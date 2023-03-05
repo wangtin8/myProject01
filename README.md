@@ -1,3 +1,3 @@
 # myPorject01
-Welcom to my first public repository and first homepage.
+Welcome to my first public repository and first homepage.
 Hello world!
