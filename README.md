@@ -1,3 +1,3 @@
 # tryRepo
-my first public repository
+my first public repository and first homepage.
 hello world!
